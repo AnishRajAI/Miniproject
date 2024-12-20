@@ -36,5 +36,5 @@ In conclusion, the project successfully developed a dynamic connecting system ta
 This project serves as a foundation for future developments in assistive technologies and contributes to creating a more inclusive and accessible digital environment.
 
 ## Articles published / References
-
+Zayed, Y.; Salman, Y.; Hasasneh, A. A Recommendation System for Selecting the Appropriate Undergraduate Program at Higher Education Institutions Using Graduate Student Data. Appl. Sci. 2021, 12, 12525
 
