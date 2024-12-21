@@ -7,8 +7,8 @@ Oue Recommender system is designed to foster meaningful connections among studen
 
 - User Friendly Ui using streamlit.
 - Database which ensures integrity.
-- Uses light weight dtabase.
-- Combines content based and collaborative based filtering techniquesx.
+- Uses light weight database.
+- Combines content based and collaborative based filtering techniques.
 
 ## Requirements
 
