@@ -20,17 +20,17 @@ Oue Recommender system is designed to foster meaningful connections among studen
 * Additional Dependencies: Includes scikit-learn, TensorFlow (versions 2.4.1),pandas for data handling
 
 ## System Architecture
-![System Architecture]()
+![System Architecture](1.png)
 
 
 ## Output
 
 #### Output1 - Login Page of the proposed model
-![Output1]()
+![Output1](2.png)
 
 
 #### Output2 - Connected users based on appropriate interest
-![Output2]()
+![Output2](Sys.png)
 ## Results and Impact
 In conclusion, the project successfully developed a dynamic connecting system tailored for students, facilitating connections based on shared interests and academic goals.
 This project serves as a foundation for future developments in assistive technologies and contributes to creating a more inclusive and accessible digital environment.
