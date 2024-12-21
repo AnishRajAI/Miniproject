@@ -1,7 +1,8 @@
 ## Knowledge Based Recommender System Using Artificial Intelligence For Smart Education
 
 ## About
-Oue Recommender system is designed to foster meaningful connections among students based on shared academic interests and goals. Using advanced machine learning algorithms, the system matches like-minded individuals, enabling collaborative learning and idea sharing..
+Oue Recommender system is designed to foster meaningful connections among students based on shared academic interests and goals. Using advanced machine learning algorithms, the system matches like-minded individuals, enabling collaborative learning and idea sharing.
+
 
 ## Features
 
